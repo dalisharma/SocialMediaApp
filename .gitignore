@@ -1,0 +1,24 @@
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+
+# Backend
+Backend/target/
+
+# # Spring Boot secrets
+Backend/src/main/resources/application.properties
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+Thumbs.db
+.DS_Store
